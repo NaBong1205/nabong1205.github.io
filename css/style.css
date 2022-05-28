@@ -18,8 +18,8 @@ header{ width:960px; height:150px; margin:0 auto;}
 #main_image{ width:960px; height:400px; background-image:url("https://github.com/nabong1205/nabong1205.github.io/blob/main/img/images.png?raw=true"); background-position:center center; background-size:cover; position:relative; margin:0 auto; background-repeat:no-repeat;}
 #main_image .inner_box{ width: 300px; height:60px; background-color:#ff0; background:rgba(255,255,255,0.7); text-align:center;border-radius:20px; text-align:center; padding-top:20px; padding-bottom:10px;position:absolute; top:50%; left:50%; margin:-50px 0 0 -160px;color:#fff;}
 #main_image .inner_box a{ color:#000; font-weight:bold;}
-#main_image .inner_box a span{ color:#7b422e; font-size:20px; margin-bottom:-10px; display:block;}
-td:hover { background : yellowgreen;}
+#main_image .inner_box a span{ color:#7b422e; font-size:15px; margin-bottom:-10px; display:block;}
+
 
 /*************3행(Contents)*************/
 .notice{ width:600px; height:230px; float:left;}
@@ -31,6 +31,7 @@ td:hover { background : yellowgreen;}
 .notice tr>td:first-child{ width:400px;}
 .notice tr:first-child{ text-align:center;}
 .notice tr>td:last-child{ width:190px; text-align:center;}
+td:hover { background : yellowgreen;}
 
 .partner{ width:250px; height:250px; float:right;}
 .partner h2{ padding:30px; margin-left:0px;}
