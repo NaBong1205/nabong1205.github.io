@@ -32,10 +32,10 @@ td:hover { background : yellowgreen;}
 .notice tr:first-child{ text-align:center;}
 .notice tr>td:last-child{ width:190px; text-align:center;}
 
-.partner{ width:300px; height:250px; float:right;}
-.partner h2{ padding:15px; margin-left:0px;}
-.partner h2 a{ padding:20px; margin-left:100px; color:#000; font-size:18px;}
-.partner ul li:first-child{ margin-right:10px;}
+.partner{ width:250px; height:250px; float:right;}
+.partner h2{ padding:30px; margin-left:0px;}
+.partner h2 a{ padding:10px; margin-left:50px; color:#000; font-size:18px;}
+.partner ul li:first-child{ margin-right:80px;}
 .partner ul li{ float:left;}
 
 .icon_image{ width:1000px; height:100px; float:right; padding-top:50px;}
