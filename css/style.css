@@ -15,7 +15,7 @@ header{ width:960px; height:150px; margin:0 auto;}
 #lnb li a{ color:#999; font-family:'Jua', sans-serif; font-size:20px;}
 
 /*************2행(Main Image)*************/
-#main_image{ width:960px; height:400px; background-image:url("img/images.png"); background-position:center center; background-size:cover; position:relative; margin:0 auto; background-repeat:no-repeat;}
+#main_image{ width:960px; height:400px; background-image:url("nabong1205.github.io/img/images.png"); background-position:center center; background-size:cover; position:relative; margin:0 auto; background-repeat:no-repeat;}
 #main_image .inner_box{ width: 300px; height:60px; background-color:#ff0; background:rgba(255,255,255,0.7); text-align:center;border-radius:20px; text-align:center; padding-top:20px; padding-bottom:10px;position:absolute; top:50%; left:50%; margin:-50px 0 0 -160px;color:#fff;}
 #main_image .inner_box a{ color:#000; font-weight:bold;}
 #main_image .inner_box a span{ color:#7b422e; font-size:20px; margin-bottom:-10px; display:block;}
